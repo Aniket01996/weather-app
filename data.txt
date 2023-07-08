@@ -1,0 +1,7 @@
+API key = 183087e27adb0df530a4af17634aea03
+API url = https://api.openweathermap.org/data/2.5/weather?g=$(city)&units=metric&appid=$(APIKey)
+website = https://home.openweathermap.org/api_keys
+
+Account signed in : -
+Account - blazedb.96@gmail.com
+password - aniket1996
